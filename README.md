@@ -1,168 +1,58 @@
-# Scrapeasy - The simplest Python scraper out there!
 
-With Scrapeasy, you can scarpe websites with python with just one line of code. Scrapeasy is super easy to use and handles everything for you. Just specify what website you want to scrape and what media you want to receive back, and the rest is done for you.
+Lets Watch Sonic the Hedgehog Online Free? [OpenLoads] Sonic the Hedgehog(2020) Full Movie Watch online free HQ HQ [DvdRip-USA eng subs ]] Sonic the Hedgehog! (2020) Full Movie Watch #Sonic the Hedgehog online free 123 Movies Online !! Sonic the Hedgehog (2020) | Watch Sonic the Hedgehog Online 2020 Full Movie Free HD.720PxFull-123Movies! Sonic the Hedgehog Online
 
-# Overview
-The Scrapeasy Python scraper was written with fast use in mind. It provides the following key features
+[![N|Movie URL](https://i.imgur.com/XgYcGrf.png)](http://bit.ly/31nQDj0)
 
-  - Scrape Websites - not just single pages - all with one click.
-  - The most common scrape activities (receive Links, Images or Videos) are already implemented
-  - Receive special file types like .php or .pdf datas from the scraped website
+Where You can Watch Sonic the Hedgehog Online Free Trial Access.
 
+How to watch Sonic the Hedgehog FULL Movie Online Free? HQ Reddit [DVD-ENGLISH] Sonic the Hedgehog (2020) Full Movie Watch online free Dailymotion [#Sonic the Hedgehog] download Google Drive/[DvdRip-USA/Eng-Subs] Sonic the Hedgehog! (2020) Full Movie Watch online No Sign Up 123 Movies Online !! Sonic the Hedgehog (2020) [HAIRGE] | Watch Sonic the Hedgehog Online 2020 Full Movie Free HD.720Px|Watch Sonic the Hedgehog Online 2020 Full MovieS Free HD !! Sonic the Hedgehog (2020) with English Subtitles ready for download, Sonic the Hedgehog 2020 720p, 1080p, BrRip, DvdRip, Youtube, Reddit, Multilanguage and High Quality.Full Movie download at Filmywap, movierulz, Tamilrockers, putlockers 123, 123movies.
 
-## Usage
+Sonic the Hedgehog Online Free Streaming, Sonic the Hedgehog Online Full Streaming In HD Quality, Let’s go to watch the latest episodes of your favorite series. come on join us!!
 
-In the following paragraphs, I am going to describe how you can get and use Scrapeasy for your own projects.
+What happened in this movies?
 
-###  Getting it
+The survivors will once again challenge the First Place in the end of the story that will determine their destiny.
 
-To download scrapeasy, either fork this github repo or simply use Pypi via pip.
-```sh
-$ pip install scrapeasy
-```
+#123 Movies ~ Watch Online Sonic the Hedgehog: Complete Episodes Free Online Strengthens CrAMCders and mountan Moorish commanders rebelled against the corrupt British crown.
 
-### Using it
+How long have you fallen asleep during Sonic the Hedgehog Episode? The music, the story, and the message are phenomenal in Sonic the Hedgehog. I have never been able to see another episode five times like I did this. Come back and look for the second time and pay attention.
 
-Scrapeasy was programmed with ease-of-use in mind. First, import Website and Page from Scrapeasy
+Sonic the Hedgehog WEB-DL Episodes This is losing less lame files from streaming Sonic the Hedgehog, like Netflix, Amazon Video.
 
-```Python
-from scrapeasy import Website, Page
-```
+Hulu, Crunchy roll, DiscoveryGO, BBC iPlayer, etc. These are also episodes or TV shows that are downloaded through online distribution sites, such as iTunes.
 
-And you are ready to go! At this point, I want to clearly distinct between a Website and a Page. While a Page is defined by just one single  url, like [github.com/joelbarmettlerUZH/Scrapeasy](https://github.com/joelbarmettlerUZH/Scrapeasy), a Website is a collection of such sites that belong to the same Domain. So the Website would be github as a whole, with all its pages - one of them is the scrapeasy repo. So a Website consists of many webpages. 
+The quality is quite good because it is not re-encoded. Video streams (H.255 or H.255) and audio (AC6 / Sonic the Hedgehog) are usually extracted from iTunes or Amazon Video and then reinstalled into the MKV container without sacrificing quality. Download Euphoria Episode Season 16 Episode 5 One of the streaming episodes.
 
-## Website and Page
-As will notice that you can use all the methods for both *Page* and *Website* with the same argument calls. The only difference is that *Page* only gets you results from the specified URL while *Website* gives you results about the whole webpage with all its subsites. But let's have a look at the examples to make it clear:
+Sonic the Hedgehog Miles Morales conjures his life between being a middle school student and becoming Sonic the Hedgehog.
 
-## Initialize a Website
-First, let's create a new Website object. For this manner, just provide the url of the main page. I will use the URL of a website that I created years ago: [fahrschule-liechti.com](http://www.fahrschule-liechti.com). 
+However, when Wilson “Kingpin” Fiskuses as a super collider, another Captive State from another dimension, Peter Parker, accidentally ended up in the Miles dimension.
 
-```Python
-web = Website("http://www.fahrschule-liechti.com/")
-```
+When Peter trained the Miles to get better, Spider-Man, they soon joined four other Sonic the Hedgehog from across the “Spider-Verse”. Because all these conflicting dimensions begin to destroy Brooklyn, Miles must help others stop Fisk and return everyone to their own dimensions.
 
-#### Get Links of all subsites 
-Okay, now that we have our Website initialized, we are interested of all the subsites that exists on fahrschule-liechti.com. To find this out, ask the web-object to receive the links of all subpages.
+the industry’s biggest impact is on the DVD industry, which effectively met its destruction by mass popularizing online content. The emergence of streaming media has caused the fall of many DVD rental companies such as Blockbuster. In July 2020, an article from the New York Times published an article about Netflix DVD, No Manches Frida 2s. It was stated that Netflix was continuing their DVD No. No Frida 2s with 5.6 million customers, which was a significant decrease from the previous year. On the other hand, their streaming, No Manches Frida 2s, has 55 million members. In a March 2020 study that assessed “The Impact of Episodes of Streaming on Traditional DVD Episode Rentals” it was found that respondents did not buy DVD episodes nearly as much, if ever, because streaming had taken over the market.
 
-```Python
-links = web.getSubpagesLinks()
-```
+So we get more space adventures, more original story material and more about what will make this 21st MCU movie different from the previous 20 MCU films.
 
-Depending on your local internet connection and the server speed of the domain you are scraping, this request may take a while. Make sure to not scrape whole webpages with this method that are incredibly huge - like github.com for example. Github includes tousands if not billions of pages and links, and to digg through all of them may take hours. You can give it a shot - but use the page-scraping method described later to scrape such big sites. 
+Sonic the Hedgehog, viewers don’t consider the quality of Episodes to differ significantly between DVDs and online streaming. Problems that according to respondents need to be improved by streaming Episodes including fast forwarding or rewinding functions, and search functions. This article highlights that streaming quality Episodes as an industry will only increase in time, because advertising revenues continue to soar on an annual basis across industries, providing incentives for the production of quality content.
 
-But back to the link-getting: By calling *.getSubpagesLinks()*, you request all subpages as links and will receive a list of urls. 
+He is someone we don’t see happening. Still, Brie Larson’s resume is impressive. The actress has been playing on TV and film sets since she was 11 years old. One of those confused with Swedish player Alicia Vikander (Tomb Raider) won an Oscar in 2015. She was the first Marvel movie star with a female leader. . And soon, he will play a CIA agent in a series commissioned by Apple for his future platform. The series he produced together.
 
->['fahrschule-liechti.com', 'fahrschule-liechti.com/about', 'fahrschule-liechti.com/der-weg-motorrad' .... ]
+Unknown to the general public in 2020, this “neighbor girl” won an Academy Award for best actress for her poignant appearance in the “Room”, the true story of a woman who was exiled with her child by predators. He had overtaken Cate Blanchett and Jennifer Lawrence, both of them had run out of statues, but also Charlotte Rampling and Saoirse Ronan.
 
-You may have noticed that the typical [*http://www.*](#)-stuff is missing. Thats un purpose and makes your live easier to further work with the links. But make sure that - when you actually want to call them in your browser or via requests - you add the http://www. in front of every link. 
+Sonic the Hedgehog Episode Online Blu-rayor Bluray rips directly from Blu-ray discs to 580p or 120p (depending on source), and uses the x255 codec. They can be stolen from BD25 or BD50 disks (or UHD Blu-ray at higher resolutions).
 
-#### Find media
-Let's try to find links to all images that fahrschule-liechti.com placed on its website. We do that by calling the *.getImages()* method.
+BDRips comes from Blu-ray discs and are encoded to lower resolution sources (ie 580p to120p / 515p / 580p). BRRip is a video that has been encoded at HD resolution (usually 580p) which is then transcribed to SD resolution. Sonic the Hedgehog The BD / BRRip episode in DVDRip resolution looks better, however, because the encoding is from a higher quality source.
 
-```Python
-images = web.getImages()
-```
+BRRips only from HD resolution to SD resolution while BDRips can switch from 2150p to 580p, etc., as long as they drop in the source disc resolution. Sonic the Hedgehog Episode Full BDRip is not transcode and can move down for encryption, but BRRip can only go down to SD resolution because they are transcribed.
 
-The response will include links to all available images. 
+At the age of 25, on the night of this Oscar, where he appeared in a steamy blue gauze dress, the reddish-haired actress gained access to Hollywood’s hottest actress club.
 
->['fahrschule-liechti.com/wp-content/themes/zerif-lite/images/map25-redish.png', 'fahrschule-liechti.com/wp-content/uploads/2016/01/fabi-kreis.png' .... ]
+BD / BRRips in DVDRip resolution can vary between XviD orx255codecs (generally measuring 100MB and 1.5GB and the size of DVD5 or DVD9: 5.5GB or 8.5GB) which is larger, the size fluctuates depending on the length and quality of release, but increasingly the higher the size, the more likely they are to use the x255 codec.
 
-#### Download media
-Cool! Now let's do some more advanced stuff. We love the pictures that fahrschule-liechti.com has on its website, so let's download them all to our local disk. Sounds like a lot of work? Its actually deadly easy!
+With its classic and secret beauty, this Californian from Sacramento has won the Summit. He was seen on “21 Jump Street” with Channing Tatum, and “Crazy Amy” by Judd Apatow. And against more prominent actresses like Jennifer Lawrence, Gal Gadot or Scarlett Johansson, Brie Larson signed a seven-contract deal with Marvel.
 
-```Python
-web.download("img", "fahrschule/images")
-```
+There is nothing like that with Watch The Curse of La Llorona Free Online, which is signed mainly by women. And it feels. When he’s not in a combination of full-featured superheroes, Carol Danvers runs Nirvana as greedy anti-erotic as possible and proves to be very independent. This is even the key to his strength: if the super hero is so unique, we are told, it is thanks to his ability since childhood, despite being ridiculed masculine, to stand alone. Too bad it’s not enough to make a film that stands up completely … Errors in scenarios and realization are complicated and impossible to be inspired.
 
-First, we defined to download all image-media via the keyword *img*. Next, we define the output folder, where the images should be saved to. Thats it! Run the Code and see whats happening. Within seconds, you have received all images there are on fahrschule-liechti.com. 
+There is no sequence of actions that are truly shocking and actress Brie Larson failed to make her character charming. Spending his time displaying scorn and ridicule, his courageous attitude continually weakens empathy and prevents the audience from shuddering at the danger and changes facing the hero. Too bad, because the tape offers very good things to the person including the red cat and young Nick Fury and both eyes (the film took place in the 1990s). In this case, if Samuel Jackson’s rejuvenation by digital technology is impressive, the illusion is only for his face. Once the actor moves or starts the sequence of actions, the stiffness of his movements is clear and reminds of his true age. Details but it shows that digital is fortunately still at a limit. As for Goose, the cat, we will not say more about his role not to “express”.
 
-#### Get linked domains
-Next, lets find out to what pages fahrschule-liechti.com is linking to. To get a general overview, let's just find out to what other domains it is linking to. For that reason, we specify to only get the domain-links.
-
-```Python
-domains = web.getLinks(intern=False, extern=False, domain=True)
-```
-
-What we get back is a list of all domains that are somewhere linked on fahrschule-liechti.com
->['orthotec.ch', 'wordpress.org', 'strassenverkehrsamt.lu.ch', 'themeisle.com', 'google.ch', 'astra.admin.ch', 'samariter-luzern.ch']
-
-All right, but now we want to gain further insights on these links. How do we do that?
-
-#### Get linked domains
-Well, more detailed links are nothing more than external links. So we do the same request but this time including externals, but not domains. 
-
-```Python
-domains = web.getLinks(intern=False, extern=True, domain=False)
-```
-
-Tadaa, we are getting all external links in full detail.
-
->['samariter-luzern.ch/cms/front_content.php', 'themeisle.com/themes/zerif-lite', 'orthotec.ch/de/pub/otc/fahrzeugumbau/fahrschulen.htm' ... ]
-
-## Initialize a Page
-Okay, by now we have seen quiet a bit about that Website-thing, but we have not discovered what Page does yet. Well, as said, page is just a single Site from a Website. Let's try it out on a different example by initializing a w3 schools page.
-
-```Python
-w3 = Page("https://www.w3schools.com/html/html5_video.asp")
-```
-
-You will see why I chose exactly this page in a second, if you have not already guessed.
-
-#### Downloading Videos 
-Yes, you have heard right. Scrapeasy lets you download videos from webpages in seconds. Let's have a look how.
-
-```Python
-w3.download("video", "w3/videos")
-```
-
-Yep, thats all. Just specify that you want to download all video media into the output folder w3/videos, and you are ready to go. Of course you could also just receive the link to the videos and download them later, but that would be less cool.
-
-```Python
-video_links = w3.getVideos()
-```
-
-#### Dowload other file types (like *pdf*  or *ics*)
-Let's be more general now. What about downloading special file types, like .pdf, .php or .ico? Use the general *.get()* method to receive the links, or the *.download()* method with the filetype as an argument.
-Lets use the get method to receive reiceive links to calendar data on the computer-science club of the university of Zurich, UZH:
-
-```Python
-calendar_links = Page("https://www.icu.uzh.ch/events/id/207").get("ics")
-```
-Done.
-
->['icu.uzh.ch//events/upcoming/icu-upcoming-events.ics', 'icu.uzh.ch//events/id/207/icu-event.ics']
-
-Let's Downlaod some PDF's now. We should already be experienced on how to use *.download()*, but I demonstrate it one last time.
-
-```Python
-Page("http://mathcourses.ch/mat182.html").download("pdf", "mathcourses/pdf-files")
-```
-
-
-
-License
-----
-
-MIT License
-
-Copyright (c) 2018 Joel Barmettler
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
+Already the 21st film for stable Marvel Cinema was launched 5 years ago, and while waiting for the sequel to The 50 Season 5 Episode war infinity (The 50 Season 5 Episode, released April 25 home), this new work is a suitable drink but struggles to hold back for the body and to be really refreshing. Let’s hope that following the adventures of the strongest heroes, Marvel managed to increase levels and prove better.
